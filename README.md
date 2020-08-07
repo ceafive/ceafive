@@ -3,7 +3,7 @@
 My name is Castro Agbo. I am a 👨‍💻 full stack Javascript developer with front end knowledge in React, Vue, Nuxt, Nextjs.
 
 I use Node.js for the backend and I have contributed to quite a number of open source projects are you can see from my stats below.
-- 🔭 I’m currently working on building a services app with HandyTradie
+- 🔭 I’m currently working on building a services app with [HandyTradie](https://app.handytradie.com.gh/)
 
 - 👯 I’m looking to collaborate on open source projects, startups etc.
 - 🤔 I’m looking for help with finding good jobs ie. freelance, part time or full time
@@ -69,4 +69,3 @@ I use Node.js for the backend and I have contributed to quite a number of open s
 - Email : ceafive@gmail.com
 - Twitter : [@ceafive](https://twitter.com/ceafive)
 - Portfolio : [ceafive.netlify.app](https://ceafive.netlify.app) 
-
